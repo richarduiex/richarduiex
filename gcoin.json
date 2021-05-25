@@ -1,33 +1,7 @@
+json
 {
-  "name": "DEFI",
-  "logoURI": "http://img.mp.itc.cn/upload/20170330/3991cea818cf4712a96cbd13557c858e_th.jpeg",
-  "keywords": [
-      "defi",
-      "DEFI",
-      "yield"
-    ],
-    "timestamp": "2020-09-01T01:40:34.305Z",
-    "tokens": [
-    {
-      "chainId": 1,
-      "address": "0x511d4b739fb8724fe7a1c21aad0242768a702278",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "http://img.mp.itc.cn/upload/20170330/3991cea818cf4712a96cbd13557c858e_th.jpeg"
-    },
-      {
-      "chainId": 1,
-      "address": "0x000000000000000000000000000000",
-      "name": "DEFI",
-      "symbol": "DEFI",
-      "decimals": 18,
-      "logoURI": "http://img.mp.itc.cn/upload/20170330/3991cea818cf4712a96cbd13557c858e_th.jpeg"
-      }
-    ],
-    "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 0
-    }
+    "name": "Trust Wallet Token",
+    "website": "https://trustwallet.com",
+    "short_description": "Utility token to increase adoption of cryptocurrency.",
+    "explorer": "https://explorer.binance.org/asset/TWT-8C2"
 }
