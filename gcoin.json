@@ -1,6 +1,6 @@
 {
   "name": "DEFI",
-  "logoURI": "https://blog.csdn.net/zgsdzczh/article/details/108368485",
+  "logoURI": "http://img.mp.itc.cn/upload/20170330/3991cea818cf4712a96cbd13557c858e_th.jpeg",
   "keywords": [
       "defi",
       "DEFI",
@@ -8,13 +8,21 @@
     ],
     "timestamp": "2020-09-01T01:40:34.305Z",
     "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x511d4b739fb8724fe7a1c21aad0242768a702278",
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "http://img.mp.itc.cn/upload/20170330/3991cea818cf4712a96cbd13557c858e_th.jpeg"
+    },
       {
       "chainId": 1,
       "address": "0x000000000000000000000000000000",
       "name": "DEFI",
       "symbol": "DEFI",
       "decimals": 18,
-      "logoURI": "https://blog.csdn.net/zgsdzczh/article/details/108368485"
+      "logoURI": "http://img.mp.itc.cn/upload/20170330/3991cea818cf4712a96cbd13557c858e_th.jpeg"
       }
     ],
     "version": {
